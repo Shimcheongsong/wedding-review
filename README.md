@@ -1,5 +1,7 @@
 # 웨딩홀 후기 노트
 
+공유 후기 페이지(Claude 아티팩트): https://claude.ai/artifact/2MzW8zExYiCWZi8Cgv7ur1
+
 예식장 후기를 작성하고 모아보는 단일 HTML 페이지입니다.
 
 - 예식장 정보, 항목별 별점, 식대, 태그, 본문, 사진(최대 4장)
